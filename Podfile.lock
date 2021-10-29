@@ -1,0 +1,16 @@
+PODS:
+  - GoogleBooksApiClient (0.0.4)
+
+DEPENDENCIES:
+  - GoogleBooksApiClient
+
+SPEC REPOS:
+  trunk:
+    - GoogleBooksApiClient
+
+SPEC CHECKSUMS:
+  GoogleBooksApiClient: a2c931bcfa2d5251a2ed7945f7a424f7a720563b
+
+PODFILE CHECKSUM: 5a826ba783b5c686995e3f75a0f3eba28198005f
+
+COCOAPODS: 1.11.2
